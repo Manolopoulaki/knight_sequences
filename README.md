@@ -2,10 +2,10 @@ This is a code that aims to find all 10-key sequences on a keypad where each key
 
 To run the code use 
 
-'python main.py
+>python main.py
 
 To run unit tests use
 
-'python -m unittest tests.py
+>python -m unittest tests.py
 
 For more information check documentation.pdf
